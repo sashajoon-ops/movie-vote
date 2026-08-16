@@ -1,0 +1,12 @@
+{
+  "name": "movie-vote",
+  "version": "1.0.0",
+  "description": "Movie voting app with ranked choice voting",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'build complete'"
+  },
+  "dependencies": {
+    "@vercel/kv": "^0.2.1"
+  }
+}
